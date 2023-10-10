@@ -1,6 +1,6 @@
 ## Basketball Hoop Project
 ### Overview
-Welcome to the documentation for the Basketball Hoop project! Please note that this project was a result of a rush to completion before the start of a semester, so the documentation might be a bit lacking. The project aimed to create a dynamic basketball hoop that could move both vertically and horizontally, ensuring that any ball thrown at it would, in theory, never miss.
+Welcome to the *documentation* for the Basketball Hoop project! Please note that this project was a result of a rush to completion before the start of a semester, so the documentation is lacking and the code quality may not be desirable. The project aimed to create a dynamic basketball hoop that could move both vertically and horizontally, ensuring that any ball thrown at it would, in *theory*, never miss.
 
 ### Project Description
 The basketball hoop was primarily constructed using 3D printed parts, with additional support from scrap wood and stainless steel rods. Super glue and screws were used for assembly. The project utilized an Arduino Uno to control stepper motors via three TB6560 stepper motor driver controllers. Two controllers were employed for one axis due to uneven weight distribution. Two stepper motors were used for the Y-axis to counter gravity, and one for the X-axis. Additionally, three micro switches were integrated to detect when the moving parts reached the end of their respective axes.
